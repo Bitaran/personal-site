@@ -20,13 +20,13 @@ slides: example
 tags:
 - Source Themes
 title: The effect of monetary policy tightening on inflation an estimated DSGE model
-url_code: '#'
-url_dataset: '#'
+url_code: ''
+url_dataset: ''
 url_pdf: ''
-url_poster: '#'
+url_poster: ''
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 ---
 
