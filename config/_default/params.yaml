@@ -20,27 +20,27 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: b.maden@ttu.edu
+email: bmaden@allegheny.edu
+
 address:
-  street: Texas Tech University, Lubbock, TX 
-  city: Lubbock
-  region: TX
-  postcode: '79415'
+  street: Allegheny College
+  city: Meadville
+  region: PA
+  postcode: '16335'
   country: United States
   country_code: US
 coordinates:
-  latitude: '33.585693'
-  longitude: '-101.873633'
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  latitude: '41.6498'
+  longitude: '-80.145'
+directions: Business and Economics Department is at Quigley Hall.
 
 contact_links:
-
-  - icon: skype
+  - icon: twitter
     icon_pack: fab
-    name: Skype Me
-    link: 'https://join.skype.com/invite/O3XItyMVztpG'
+    name: DM Me
+    link: 'https://twitter.com/j_maden'
+  
+
 
 
 # Site header
