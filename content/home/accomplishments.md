@@ -23,69 +23,55 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/5583ba3e331518d14fff6e2ac551e4b2d1676702
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/31f0146e678fce00e4ee86c4eaa7de41ed794119
   date_end: ""
-  date_start: "2018-02-04"
+  date_start: "2021-12-27"
   description: ""
   organization: Datacamp
-  organization_url: https://www.datacamp.com/
-  title: Introduction to R
+  organization_url: https://www.datacamp.com
+  title: R Programming Track
   url: ""
-  
-- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/bba934427eaf88ab398297fe0b819ae899a58f69
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/69248e77fb3d223df142e2ce05b862ed3649f0ca
   date_end: ""
-  date_start: "2018-02-05"
+  date_start: "2021-12-27"
   description: ""
   organization: Datacamp
-  organization_url: https://www.datacamp.com/
-  title: Reporting with R Markdown
+  organization_url: https://www.datacamp.com
+  title: Data Manipulation with R Track
+  url: ""
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/d2aa4fae360df556cd193adc8f46cd52100e7c2e
+  date_end: ""
+  date_start: "2021-12-27"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Data Visualization with R Track'
+  url: ""
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/8d8f14bd30f13d5b1e9d81e0ef4a3e7a97d040ab
+  date_end: ""
+  date_start: "2022-01-01"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Time Series with R Track'
+  url: ""
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/d776099dfbe1666e4a0a9302e83929a1b93b7c69
+  date_end: ""
+  date_start: "2022-01-07"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Applied Finance in R Track'
+  url: ""
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/3952d7ea7f07d972e86f0743fb1050e7d9239630
+  date_end: ""
+  date_start: "2022-01-09"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Finance Fundamentals in R Track'
   url: ""
 
-- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/8d220e200e0d140ea574a04465acbd894c8609cf
-  date_end: ""
-  date_start: "2018-03-08"
-  description: ""
-  organization: Datacamp
-  organization_url: https://www.datacamp.com/
-  title: Data Visualization with ggplot2 (Part 1)
-  url: ""
-  
-- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/759b90ca8ddf4d543573feb7cb1f3d09c8e6bf6a
-  date_end: ""
-  date_start: "2018-03-13"
-  description: ""
-  organization: Datacamp
-  organization_url: https://www.datacamp.com/
-  title: Data Manipulation in R with dplyr
-  url: ""
-  
-- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/e6c4844504b25c2a9998d151fd2108bd2f88a8b1
-  date_end: ""
-  date_start: "2019-01-26"
-  description: ""
-  organization: Datacamp
-  organization_url: https://www.datacamp.com/
-  title: Foundations of Functional Programming with purrr
-  url: ""
-  
-  
-- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/b15bd6ebb746a4c08f156173f97c71a8efca8275
-  date_end: ""
-  date_start: "2019-02-02"
-  description: ""
-  organization: Datacamp
-  organization_url: https://www.datacamp.com/
-  title: Working with Data in the Tidyverse
-  url: ""
-  
-- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/5ba43c35658f16bfcba3991d872883f668531507
-  date_end: ""
-  date_start: "2020-05-21"
-  description: ""
-  organization: Datacamp
-  organization_url: https://www.datacamp.com/
-  title: Manipulating Time Series Data with xts and zoo in R
-  url: ""
 design:
   columns: '2' 
 ---

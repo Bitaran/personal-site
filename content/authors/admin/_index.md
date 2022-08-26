@@ -1,5 +1,6 @@
 ---
-bio: My research interests include monetary economics, time series econometrics and applied macro economics.
+bio: My research interests include monetary economics, time series econometrics and applied macro economics
+  matter.
 education:
   courses:
   - course: PhD in General Economics
@@ -11,16 +12,16 @@ education:
   - course: B.E. in Civil Engineering
     institution: Pulchowk Engineering Campus, IOE
     year: 2008
-email: "b.maden@ttu.edu"
+email: "bmaden@allegheny.edu"
 highlight_name: Bitaran Jang Maden
 interests:
 - Monetary Economics
 - Time series econometrics
 - Applied macro economics
 organizations:
-- name: Texas Tech University
-  url: https://www.depts.ttu.edu/economics/
-role: Graduate Part-Time Instructor
+- name: Allegheny College
+  url: https://sites.allegheny.edu/econ/
+role: Visiting Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,8 +41,6 @@ superuser: true
 title: Bitaran Jang Maden
 ---
 
-Bitaran Jang Maden is a Graduate Part-Time Instructor of economics at the Texas Tech University. His research interests include monetary economics, time-series econometrics and applied macroeconomics. He has worked as a teaching assistant for various faculty in the university and also worked as an instructor teaching courses on Principles of Microeconomics, Principles of Macroeconomics and Intermediate Macroeconomics.
-
-
+Bitaran Jang Maden is a Visiting Assistant Professor of economics at the Allegheny College. His research interests include monetary economics, time-series econometrics and applied macroeconomics. He has worked as Graduate Part-Time Insturctor and teaching assistant for various faculty at Texas Tech University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

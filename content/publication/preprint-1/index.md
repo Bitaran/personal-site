@@ -1,32 +1,35 @@
 ---
-abstract: Business cycle models have been trying to identify casual effects of different shocks in the business cycle. There are research works on the effects of techonological, monetary, oil price and other various shock in the model to identify the reasons for business cylcle fluctuations. Post Great Recession, there is a renewed interest in unceratinty shocks as there is a growing recognition of their role in driving fluctuations in the economy. I use two news-based indicators- News-based policy uncertainty and Equity-Market volatility as a measure for  both  Policy-Specific uncertainty and general economic uncertainty for the period 2000-2020. Next,in order to determine the role of monetary authority in these cycles, I look at the response of the interest rates for these shocks. The results, using an SVAR model, indicate that uncertainty shocks – both general and policy related – depress the level of economic activity, with Volatility shocks having more severe and instantaneous impact on the economy. The robustness tests suggests that the results of the SVAR model is robust.
+abstract: 
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-04-07T00:00:00Z"
 doi: ""
 featured: false
 
 links:
-- name: Custom Link
-  url: ''
-projects:
-- internal-project
-publication: ""
-publication_short: ""
-publication_types:
-- "3"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-tags:
-- Source Themes
-title: Uncertainty Shocks, the Economy and the Monetary Authority
-url_code: '#'
-url_dataset: ''
-url_pdf: ''
-url_poster: ''
-url_project: ""
-url_slides: ""
-url_source: ''
-url_video: ''
+
+title: Addressing Price Puzzle- SVAR, FAVAR and SVEC Approach(working-paper)
+
 ---
 
+Price puzzle is an anomaly in empirical VAR analysis that suggest an increase in output
+and inflation in response to a contractionary monetary policy (rising interest rates). In order to
+study the effects of monetary policy on output and inflation, I use three different model setups -
+a SVAR with Cholseki decompsition, Factor-Augmented VAR model (with three factors) and a
+Vector Error Correction(VEC) model. The SVAR with Choleski decomposition as suggested in the
+literature shows that there is a significant price puzzle problem. Hence, we see that both output
+and inflation rises in response to a contractionary monetary policy. Results from FAVAR model
+suggests that it is a signifiacant improvement over the SVAR model as it suppresses the responses
+of the output and inflation and produces IRFs which are closer to the theoretical models. This
+result is similar to the results of Bernanke et al. (2005). Finally, I use a Vector Error Correction
+(VEC) model approach to model the effects of a contractionary monetary policy. I use GDP\
+GDP growth, trade openness, inflation, exchange rate and federal funds rate in the VEC model.
+The results demonstrate that imposing restrictions using a long-run cointegrating relationship can
+resolve the price puzzle problem. The GDP and inflation drops in response to the rising interest
+rates. This result is similar to Krusec (2010). However, the difference is that Krusec (2010) uses
+a three variable in his model while I consider the effects of exchange and trade openness along
+with other variables. Inclusion of trade openness and exchange is crucial as we are trying to build
+the response of inflation and output. In doing so, I find two long run-cointegrating relationship
+among the variable as opposed to Krusec (2010)’s one. And the restrictions in the model changes.
+However, we come to similar conclusion that the considering a long run cointegrating VAR model
+solves the anomaly of the price puzzle
